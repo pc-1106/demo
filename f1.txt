@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi, this is master.
+=======
+Hi, This is br1.
+>>>>>>> br1
